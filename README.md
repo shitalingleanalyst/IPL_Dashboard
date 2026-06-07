@@ -174,4 +174,4 @@ These KPIs provide instant visibility into top player performances.<br>
 IPL Dashboard - Team Overview
 ![IPL Dashboard Overview]((https://github.com/shitalingleanalyst/IPL_Dashboard/blob/main/Screenshot%202026-05-15%20202806.png))
 IPL Dashboard - Top Player Analysis
-![IPL Dashboard Top Players](https://github.com/your-username/IPL-Dashboard/blob/main/IPL_TopP
+![IPL Dashboard Top Players]((https://github.com/shitalingleanalyst/IPL_Dashboard/blob/main/Screenshot%202026-06-02%20132016.png))
