@@ -170,8 +170,8 @@ These KPIs provide instant visibility into top player performances.<br>
 🏆 Strategic Decision Support: Assist coaches, analysts, and franchises in performance evaluation and match preparation.<br>
 📢 Fan Engagement: Deliver an interactive experience for cricket fans to explore IPL statistics and records.<br>
 
-6. Screenshots / Demos
-IPL Dashboard - Team Overview
-![IPL Dashboard Overview]((https://github.com/shitalingleanalyst/IPL_Dashboard/blob/main/Screenshot%202026-05-15%20202806.png))
-IPL Dashboard - Top Player Analysis
-![IPL Dashboard Top Players]((https://github.com/shitalingleanalyst/IPL_Dashboard/blob/main/Screenshot%202026-06-02%20132016.png))
+6. Screenshots / Demos<br>
+IPL Dashboard - Team Overview<br>
+![IPL Dashboard Overview]((https://github.com/shitalingleanalyst/IPL_Dashboard/blob/main/Screenshot%202026-05-15%20202806.png))<br>
+IPL Dashboard - Top Player Analysis<br>
+![IPL Dashboard Top Players]((https://github.com/shitalingleanalyst/IPL_Dashboard/blob/main/Screenshot%202026-06-02%20132016.png))<br>
